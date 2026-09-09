@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Varun 👋
 
-<!--
-**varunsd16-del/varunsd16-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | React | Next.js | TypeScript
 
-Here are some ideas to get you started:
+🚀 Building modern web applications
+🤖 AI integration with OpenAI, Gemini & Claude
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+React • Next.js • TypeScript • Node.js • Flutter
+
+Featured Projects
+• Project 1
+• Project 2
+• Project 3
+
+GitHub Stats
+[stats cards]
+
+Connect with me
+LinkedIn | Portfolio | Email
