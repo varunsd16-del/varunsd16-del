@@ -666,9 +666,9 @@ modern interfaces and backend/API integrations.
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Statistics">
+<img src="https://raw.githubusercontent.com/varunsd16-del/varunsd16-del/main/profile/stats.svg" height="180" alt="GitHub Statistics">
 
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages">
+<img src="https://raw.githubusercontent.com/varunsd16-del/varunsd16-del/main/profile/top-langs.svg" height="180" alt="Top Languages">
 
 </div>
 
