@@ -15,20 +15,20 @@
 <br><br>
 
 <p>
-  <b>Building modern web applications, SaaS products & AI-powered experiences.</b>
+<b>Building modern web applications, SaaS products & AI-powered experiences.</b>
 </p>
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://varunportfoliosde.netlify.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/varun-shanmugasundaram-0786b1273/">
 <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:varun.sd16@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8">
 </a>
 
@@ -98,7 +98,7 @@ My focus is on creating products that are
 <br><br>
 
 
-<!-- ======================= QUICK PROFILE ================== -->
+<!-- ======================= SNAPSHOT ======================== -->
 
 <h2 align="center">
   🧭 Developer Snapshot
@@ -114,56 +114,64 @@ My focus is on creating products that are
 
 <td align="center" width="25%">
 
-### 💻
+<h2>💻</h2>
 
 <b>Frontend</b>
 
-<br>
+<br><br>
 
 React  
+<br>
 Next.js  
+<br>
 TypeScript
 
 </td>
 
 <td align="center" width="25%">
 
-### ⚙️
+<h2>⚙️</h2>
 
 <b>Backend</b>
 
-<br>
+<br><br>
 
 Node.js  
+<br>
 REST APIs  
+<br>
 Services
 
 </td>
 
 <td align="center" width="25%">
 
-### 🤖
+<h2>🤖</h2>
 
 <b>AI</b>
 
-<br>
+<br><br>
 
 OpenAI  
+<br>
 Gemini  
+<br>
 Claude
 
 </td>
 
 <td align="center" width="25%">
 
-### 📱
+<h2>📱</h2>
 
 <b>Mobile</b>
 
-<br>
+<br><br>
 
 Flutter  
+<br>
 Dart  
+<br>
 Cross-platform
 
 </td>
@@ -453,7 +461,7 @@ backend services, APIs and AI-enabled capabilities.
 
 <p align="center">
 
-<a href="YOUR_SPOTNXT_URL">
+<a href="https://varunportfoliosde.netlify.app/">
 
 <img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=rocket&logoColor=white">
 
@@ -493,7 +501,7 @@ for AI-enabled product functionality.
 
 <p align="center">
 
-<a href="YOUR_AI_PROJECT_URL">
+<a href="https://varunportfoliosde.netlify.app/">
 
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white">
 
@@ -658,9 +666,9 @@ modern interfaces and backend/API integrations.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=varunsd16-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Statistics">
+<img src="./profile/stats.svg" height="180" alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunsd16-del&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages">
 
 </div>
 
@@ -696,7 +704,7 @@ modern interfaces and backend/API integrations.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsd16-del&bg_color=0F172A&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Activity">
+<img src="https://raw.githubusercontent.com/varunsd16-del/varunsd16-del/output/activity-graph.svg" width="95%" alt="Contribution Activity">
 
 </div>
 
@@ -714,7 +722,15 @@ modern interfaces and backend/API integrations.
 
 <div align="center">
 
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varunsd16-del/varunsd16-del/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varunsd16-del/varunsd16-del/output/github-contribution-grid-snake.svg">
+
 <img src="https://raw.githubusercontent.com/varunsd16-del/varunsd16-del/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+
+</picture>
 
 </div>
 
@@ -755,19 +771,19 @@ solving interesting problems and exploring new technologies.
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://varunportfoliosde.netlify.app/">
 
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-2563EB?style=for-the-badge">
 
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/varun-shanmugasundaram-0786b1273/">
 
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8">
 
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:varun.sd16@gmail.com">
 
 <img src="https://img.shields.io/badge/✉%20EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8">
 

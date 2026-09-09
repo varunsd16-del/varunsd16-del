@@ -1,0 +1,38 @@
+name: Generate Contribution Activity
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: varunsd16-del
+          options: bg_color=0F172A&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity&days=40&radius=8
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish activity graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
